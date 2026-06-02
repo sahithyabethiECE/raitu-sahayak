@@ -25,6 +25,7 @@ Tested with 3 farmers in my village. Helped them earn ₹4/kg extra on tomatoes 
 ```bash
 pip install requests
 python raitu_sahayak.py
+```
 ## 📊 Sample Output
 ```
 Namasthe Sahithya Garu!
