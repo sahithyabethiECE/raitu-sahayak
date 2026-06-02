@@ -30,14 +30,14 @@ python raitu_sahayak.py
 ```
 Namasthe Sahithya Garu!
 --- TODAY'S REPORT ---
-Location: Vijayawada
+Location: Karimnagar
 📊 MARKET PRICES:
 TOMATO MARKET RATE: ₹42/kg
 ONION MARKET RATE: ₹35/kg
 CHILLI MARKET RATE: ₹110/kg
 
 
-WEATHER: Vijayawada: +32°C, Light rain expected at 3 PM
+WEATHER: karimnagar: +32°C, Light rain expected at 3 PM
 
 💡 TIP: Market ki vellemundu rate confirm chesukoni vellandi.
 Brokers kanna ₹3-5/kg ekkuva vastadi.
