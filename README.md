@@ -3,7 +3,7 @@
 **Built by:** Sahithya Bethi | ECE Final Year Student
 
 ## 🎯 Problem Statement
-Farmers in my village near Vijayawada don't get daily market rates. Brokers exploit this information gap and pay ₹3-5/kg less than actual market price.
+Farmers in my village near Karimnagar,Telangana don't get daily market rates. Brokers exploit this information gap and pay ₹3-5/kg less than actual market price.
 
 ## 💡 Solution
 Python automation tool that fetches:
